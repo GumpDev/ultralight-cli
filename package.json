@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Gump<contact@gump.dev>",
   "license": "ISC",
   "bin": {
-    "tran": "./bin/ultralight-cli"
+    "ultralight-cli": "./bin/ultralight-cli",
+    "ultralight": "./bin/ultralight-cli"
   },
   "dependencies": {
     "esm": "^3.2.25",

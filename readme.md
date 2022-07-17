@@ -20,7 +20,7 @@
 Just install with npm:
 
 ```cli
-npm install -g @gumpdev/ultralight-cli
+npm install -g ultralight-cli
 ```
 
 <br>
