@@ -1,0 +1,18 @@
+{
+  "name": "ultralight-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tran": "./bin/ultralight-cli"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fs-extra": "^10.1.0"
+  }
+}
